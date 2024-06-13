@@ -1,3 +1,6 @@
+# SWAT-CCLC
+SWAT-CCLC (Canopy Cover and Land Cover) is a modified version of the original SWAT model. It incorporates the extent of land cover and canopy cover percentages (abundance) on a grid cell basis, allowing for the simulation of individual characteristics and hydrological responses.
+
 # How to run?
 1. Download the "SWAT CCLC Baseline.7z"
 2. Unzip file
